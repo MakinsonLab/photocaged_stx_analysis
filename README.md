@@ -1,10 +1,9 @@
-This repository contains the analysis code for _Behavioral control through the direct, focal silencing of neuronal activity_ by Elleman _et. al_, 2024. Each folder contains the code used for analysis associated with the named figure.
-
+This repository contains  analysis code for _Behavioral control through the direct, focal silencing of neuronal activity_ by Elleman _et. al_, 2024. Each folder contains code used for data analysis associated with the corresponding figure. 
 
 
 **Figure 4: Activation of STX-pbc 13 abolishes action potentials in layer 4 cortical neurons** 
 
-Igor Pro scripts were used for AP detection and analysis of AP waveform . Corresponding R scripts were use for statistical analysis and creation of plots. 
+Igor Pro scripts were used for AP detection and analysis of AP waveform . R scripts were use for statistical analysis and creation of plots. 
 
 The Igor Pro scripts contain a functions to import .abf files written by JS Rothman Rothman JS and Silver RA. NeuroMatic: An Integrated Open-Source Software Toolkit for Acquisition, Analysis and Simulation of Electrophysiological Data. _Front Neuroinform._ 2018 Apr 4;12:14. [10.3389/fninf.2018.00014](https://www.frontiersin.org/articles/10.3389/fninf.2018.00014/full)
 

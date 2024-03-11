@@ -1,5 +1,6 @@
 This repository contains  analysis code for _Behavioral control through the direct, focal silencing of neuronal activity_ by Elleman _et. al_, 2024. Each folder contains code used for data analysis associated with the corresponding figure. 
 
+****
 
 **Figure 4: Activation of STX-pbc 13 abolishes action potentials in layer 4 cortical neurons** 
 
@@ -14,7 +15,7 @@ The Igor Pro scripts contain a functions to import .abf files written by JS Roth
 
 `Figure_4_AP_raster.ipf` was used to create an action potential raster plot.**K - M**
 
-
+****
 **Figure S12 Silencing of cortical network activity by STX-bpc 13**
 
 Python scripts were used to calculate current source densities from LFP recordings.

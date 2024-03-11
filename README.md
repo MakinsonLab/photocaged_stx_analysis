@@ -1,4 +1,4 @@
-This repository contains the analysis code for _Behavioral control through the direct, focal silencing of neuronal activity_ by Elleman _et. al_, 2024
+This repository contains the analysis code for _Behavioral control through the direct, focal silencing of neuronal activity_ by Elleman _et. al_, 2024. Each folder contains the code used for analysis associated with the named figure.
 
 
 

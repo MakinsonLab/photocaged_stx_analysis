@@ -6,7 +6,7 @@ This repository contains  analysis code for _Behavioral control through the dire
 
 Igor Pro scripts were used for AP detection and analysis of AP waveform . R scripts were use for statistical analysis and creation of plots. 
 
-The Igor Pro scripts contain a functions to import .abf files written by JS Rothman Rothman JS and Silver RA. NeuroMatic: An Integrated Open-Source Software Toolkit for Acquisition, Analysis and Simulation of Electrophysiological Data. _Front Neuroinform._ 2018 Apr 4;12:14. [10.3389/fninf.2018.00014](https://www.frontiersin.org/articles/10.3389/fninf.2018.00014/full)
+The Igor Pro scripts contain a functions to import .abf files written by Rothman JS and Silver RA. NeuroMatic: An Integrated Open-Source Software Toolkit for Acquisition, Analysis and Simulation of Electrophysiological Data. _Front Neuroinform._ 2018 Apr 4;12:14. [10.3389/fninf.2018.00014](https://www.frontiersin.org/articles/10.3389/fninf.2018.00014/full)
 
 
 `Figure_4_AP_characteristics.ipf` contains functions used to analyze the AP waveform, and export example traces. **,A - B, D - J, M**
